@@ -1,6 +1,7 @@
 # LAB 1 : Home Network
 
 # Home Network Setup with FreeNAS Server
+![LAB1.drawio.png](images/LAB1.drawio.png)
 
 ## Background
 
@@ -31,8 +32,6 @@ You've been hired to set up a reliable home office network for a small business.
     - File sharing protocols (SMB/CIFS and NFS)
 
 ## Network Topology
-
-![LAB1.drawio.png](images/LAB1.drawio.png)
 
 ![LAB1.png](images/LAB1.png)
 
