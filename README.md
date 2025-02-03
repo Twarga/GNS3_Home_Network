@@ -1,4 +1,3 @@
-# LAB 0 : Home Network to Test GNS3 
 
 # Home Network Setup with FreeNAS Server
 ![LAB1.drawio.png](images/LAB1.drawio.png)
